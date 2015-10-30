@@ -1,6 +1,8 @@
 # ping_pong
 Just a simple ping-pong game for one person.
 
+technologies: python 3.4, pygame, livewires.
+
 ping_pong.py - source code file.
 
 ping_pong.zip - package with standalone Windows executable program (converted using py2exe),
